@@ -1,0 +1,173 @@
+body {
+    background: linear-gradient(117deg, rgba(255, 1, 1, 0.8), rgba(113, 101, 247, 0) 100.71%),            
+    linear-gradient(327deg, rgba(0, 0, 247, 0.8), rgba(14, 14, 56, 0) 200.71%);
+}
+
+nav {
+    position: absolute;
+    top: 30px;
+}
+
+a {
+    background-color: #000000;
+
+    color: #9f98f4;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: solid 2px rgb(5, 5, 4);
+    margin-right: 5px;
+    font-size: 20px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+a:hover {
+    background-color: #0a14a0;
+}
+
+h1 {
+    background-color: #000000;
+    color: #9f98f4;
+    position: absolute;
+    top: 10%;
+    left: 38%;
+    font-size: 35px;
+    padding: 10px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+.informações {
+    background-color: #000000;
+    color: #9f98f4;
+    position: absolute;
+    top: 40%;
+    left: 38%;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#tituloexperiencias {
+    position: absolute;
+    top: 30px;
+    left: 550px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#experiencias1 {
+    background-color: #000000;
+    position: absolute;
+    top: 700%;
+    left: 40%;
+    width: 25%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#experiencias2 {
+    background-color: #000000;
+    position: absolute;
+    top: 380px;
+    left: 40%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#tituloacademica {
+    position: absolute;
+    top: 30px;
+    left: 480px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#infoacademica {
+    background-color: #000000;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#titulo-objetivos {
+    position: absolute;
+    top: 30px;
+    left: 550px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#objetivos {
+    background-color: #000000;
+    position: absolute;
+    top: 200px;
+    left: 25%;
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#titulo-sociais {
+    position: absolute;
+    top: 30px;
+    left: 550px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#redes-sociais1 {
+    position: absolute;
+    top: 200px;
+    left: 27%;
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#redes-sociais2 {
+    position: absolute;
+    top: 300px;
+    left: 27%;
+    width: 50%;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+p {
+    color: #9f98f4;
+    font-size: 25px;
+}
+
+#logowhatsapp {
+    position: absolute;
+    width: 3%;
+    left: 3%;
+    top: 44%;
+    left: 61%;
+    z-index: 5;
+}
+
+#linkedin {
+    position: relative;
+    width: 3%;
+    height: 6%;
+    top: 165px;
+    left: 57.8%;
+}
+
+#github{
+    position: relative;
+    width: 4%;
+    left: 3%;
+    top:272px;
+    left: 54%;
+}

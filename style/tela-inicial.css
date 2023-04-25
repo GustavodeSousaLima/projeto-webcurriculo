@@ -1,0 +1,370 @@
+#body-inicial {
+    background: linear-gradient(117deg, rgba(255, 1, 1, 0.8), rgba(113, 101, 247, 0) 100.71%),
+        linear-gradient(327deg, rgba(0, 0, 247, 0.8), rgba(14, 14, 56, 0) 200.71%);
+    overflow-y: hidden;
+    overflow-x: hidden;
+    transition: unset;
+}
+
+h1 {
+    background-color: #000000;
+    color: #9f98f4;
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    border: solid 2px #000000;
+    text-align: center;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -1px 0px 0px 7px #000000
+}
+
+h1 {
+    animation-duration: 3s;
+    animation-name: h1;
+}
+
+#a1 {
+    background-color: #000000;
+    position: fixed;
+    left: 52px;
+    color: #9f98f4;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 5px;
+    font-size: 20px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#a2 {
+    background-color: #000000;
+    position: fixed;
+    left: 245px;
+    color: #9f98f4;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 5px;
+    font-size: 20px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#a3 {
+    background-color: #000000;
+    position: fixed;
+    left: 455px;
+    color: #9f98f4;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 5px;
+    font-size: 20px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#a4 {
+    background-color: #000000;
+    position: fixed;
+    left: 585px;
+    color: #9f98f4;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 5px;
+    font-size: 20px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#a5 {
+    background-color: #000000;
+    position: fixed;
+    left: 785px;
+    color: #9f98f4;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 5px;
+    font-size: 20px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#a6 {
+    background-color: #000000;
+    position: fixed;
+    left: 890px;
+    color: #9f98f4;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 5px;
+    font-size: 20px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#a7 {
+    background-color: #000000;
+    position: fixed;
+    left: 1105px;
+    color: #9f98f4;
+    text-decoration: none;
+    padding: 5px;
+    border-radius: 10px;
+    border: none;
+    margin-right: 5px;
+    font-size: 20px;
+    box-shadow: 0px 0px 15px #000000;
+}
+
+#a1 {
+    animation-duration: 3s;
+    animation-name: a1;
+}
+
+#a2 {
+    animation-duration: 3s;
+    animation-name: a2;
+}
+
+#a3 {
+    animation-duration: 3s;
+    animation-name: a3;
+}
+
+#a4 {
+    animation-duration: 3s;
+    animation-name: a4;
+}
+
+#a5 {
+    animation-duration: 3s;
+    animation-name: a5;
+}
+
+#a6 {
+    animation-duration: 3s;
+    animation-name: a6;
+}
+
+#a7 {
+    animation-duration: 3s;
+    animation-name: a7;
+}
+
+#a1:hover {
+    background-color: #1f337b;
+}
+
+#a2:hover {
+    background-color: #1f337b;
+}
+
+#a3:hover {
+    background-color: #1f337b;
+}
+
+#a4:hover {
+    background-color: #1f337b;
+}
+
+#a5:hover {
+    background-color: #1f337b;
+}
+
+#a6:hover {
+    background-color: #1f337b;
+}
+
+#a7:hover {
+    background-color: #1f337b;
+}
+
+nav {
+    position: absolute;
+    top: 60%;
+    left: 4%;
+}
+
+#balao-accenture {
+    position: absolute;
+    width: 15%;
+    height: 30%;
+    top: -5%;
+    left: 30%;
+    animation: balao-accenture 20s infinite linear;
+}
+
+#balao-sermais {
+    position: absolute;
+    width: 15%;
+    height: 30%;
+    top: 5%;
+    left: 50%;
+    animation: balao-sermais 20s infinite linear;
+}
+
+@keyframes h1 {
+    from {
+        margin-top: -20%;
+    }
+
+    50% {
+        margin-top: 10%;
+    }
+
+    to {
+        margin-top: 4, 5%;
+    }
+
+}
+
+@keyframes a1 {
+    from {
+        margin-top: 100%;
+    }
+
+    50% {
+        margin-top: 30%;
+    }
+
+    to {
+        margin-top: 20, 15%;
+    }
+
+}
+
+@keyframes a2 {
+    from {
+        margin-top: 100%;
+    }
+
+    50% {
+        margin-top: 30%;
+    }
+
+    to {
+        margin-top: 20, 15%;
+    }
+
+}
+
+@keyframes a3 {
+    from {
+        margin-top: 100%;
+    }
+
+    50% {
+        margin-top: 30%;
+    }
+
+    to {
+        margin-top: 20, 15%;
+    }
+
+}
+
+@keyframes a4 {
+    from {
+        margin-top: 100%;
+    }
+
+    50% {
+        margin-top: 30%;
+    }
+
+    to {
+        margin-top: 20, 15%;
+    }
+
+}
+
+@keyframes a5 {
+    from {
+        margin-top: 100%;
+    }
+
+    50% {
+        margin-top: 30%;
+    }
+
+    to {
+        margin-top: 20, 15%;
+    }
+
+}
+
+@keyframes a6 {
+    from {
+        margin-top: 100%;
+    }
+
+    50% {
+        margin-top: 30%;
+    }
+
+    to {
+        margin-top: 20, 15%;
+    }
+
+}
+
+@keyframes a7 {
+    from {
+        margin-top: 100%;
+    }
+
+    50% {
+        margin-top: 30%;
+    }
+
+    to {
+        margin-top: 20, 15%;
+    }
+
+}
+
+@keyframes balao-accenture {
+    from {
+        margin-left: 100%;
+    }
+
+    to {
+        margin-left: 80%;
+    }
+
+    to {
+        margin-left: 60%;
+    }
+
+    to {
+        margin-left: -100%;
+    }
+
+}
+
+@keyframes balao-sermais {
+    from {
+        margin-left: 100%;
+    }
+
+    to {
+        margin-left: 80%;
+    }
+
+    to {
+        margin-left: 60%;
+    }
+
+    to {
+        margin-left: -100%;
+    }
+
+}
